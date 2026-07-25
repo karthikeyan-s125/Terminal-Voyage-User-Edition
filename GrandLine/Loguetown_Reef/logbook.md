@@ -1,17 +1,16 @@
-#*******************TASK01 LOGBOOK************************************
+######### TASK01  LOGBOOK ##################
 
-#​Entry Date/Time: 
-
-#​Key Lore & Keywords: 
+​****Entry Date/Time: 
+****​Key Lore & Keywords: 
 
 ​Devil Fruit: Gito Gito no Mi
 ​Core Theme: history
 ​Location: Loguetown Reef
+​
+Commands & Clues: ​(Use ./eat.sh <file_name>)
 
-​Commands & Clues: 
-​(Use ./eat.sh <file_name>)
+###​Discoveries & Flags: 
 
-​###Discoveries & Flags: 
 *** CRUNCH! ***
 
 The fruit tastes absolutely terrible...
